@@ -1,7 +1,7 @@
 /* Create the database */
 CREATE DATABASE  IF NOT EXISTS DB_SiPaketTEST;
 
-/* Switch to the classicmodels database */
+/* Switch to the classicmodels database. */
 USE DB_SiPaketTEST;
 
 
